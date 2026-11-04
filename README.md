@@ -6,5 +6,6 @@ Mamadou est tailleur à Dakar. Son atelier reçoit chaque semaine des dizaines d
 ### Ce que l'API doit permettre 
 • Enregistrer les clients et conserver l'historique de leurs mesures, prises par le tailleur. 
 • Enregistrer les commandes et suivre leur avancement (coupe, couture, essayage, retouches, terminée, livrée). 
-• Planifier et confirmer les livraisons • Encaisser acomptes et soldes (types : espèces, Wave, Orange Money...) et connaître à tout moment ce que chaque client doit encore. 
+• Planifier et confirmer les livraisons 
+• Encaisser acomptes et soldes (types : espèces, Wave, Orange Money...) et connaître à tout moment ce que chaque client doit encore. 
 • Donner au patron son chiffre d'affaires, ses impayés et ses retards. 
